@@ -1,0 +1,102 @@
+:root { 
+  --celeste: #cbcbcb;
+  --chateau-green: #43bf52;
+  --concord: #7c7c7c;
+  --desert-storm: #f8f8f8;
+  --steel-blue: #4e8fb5;
+  --white: #ffffff;
+  --wild-sand: #f3f4f6;
+ 
+  --font-size-l: 26px;
+  --font-size-m: 20px;
+  --font-size-s: 17px;
+  --font-size-xl: 31px;
+  --font-size-xs: 15px;
+  --font-size-xxl: 49px;
+ 
+  --font-family-avenir-black: "Avenir-Black", Helvetica;
+  --font-family-avenir-light: "Avenir-Light", Helvetica;
+  --font-family-avenir-medium: "Avenir-Medium", Helvetica;
+  --font-family-avenirnext-bold: "AvenirNext-Bold", Helvetica;
+  --font-family-avenirnext-demibold: "AvenirNext-DemiBold", Helvetica;
+  --font-family-avenirnext-medium: "AvenirNext-Medium", Helvetica;
+}
+.avenir-medium-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.avenir-medium-concord-20px {
+  color: var(--concord);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.avenirnext-demi-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-avenirnext-demibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.avenir-black-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-avenir-black);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.avenir-black-desert-storm-20px {
+  color: var(--desert-storm);
+  font-family: var(--font-family-avenir-black);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.avenirnext-bold-white-31px {
+  color: var(--white);
+  font-family: var(--font-family-avenirnext-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.avenirnext-demi-bold-celeste-20px {
+  color: var(--celeste);
+  font-family: var(--font-family-avenirnext-demibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.avenirnext-medium-celeste-20px {
+  color: var(--celeste);
+  font-family: var(--font-family-avenirnext-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.avenir-medium-concord-15px {
+  color: var(--concord);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.avenirnext-demi-bold-concord-20px {
+  color: var(--concord);
+  font-family: var(--font-family-avenirnext-demibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}

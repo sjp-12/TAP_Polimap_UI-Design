@@ -1,0 +1,122 @@
+/* screen - web-1920-1 */
+
+.web-1920-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 321px;
+  width: 1920px;
+}
+
+.web-1920-1 .logo {
+  height: 62px;
+  margin-left: 321px;
+  margin-top: 509px;
+  object-fit: cover;
+  width: 200px;
+}
+
+.web-1920-1 .overlap-group {
+  background-color: var(--chateau-green);
+  border-radius: 539px 539px 0px 539px;
+  height: 1080px;
+  position: relative;
+  width: 1078px;
+}
+
+.web-1920-1 .rectangle-30 {
+  background-color: var(--white);
+  border-radius: 539px 539px 0px 539px;
+  height: 942px;
+  left: 69px;
+  position: absolute;
+  top: 69px;
+  width: 940px;
+}
+
+.web-1920-1 .title {
+  color: var(--steel-blue);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  left: 246px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: right;
+  top: 497px;
+  white-space: nowrap;
+}
+
+.web-1920-1 .password {
+  color: var(--steel-blue);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  left: 253px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: right;
+  top: 553px;
+  white-space: nowrap;
+}
+
+.web-1920-1 .rectangle-3 {
+  background-color: var(--desert-storm);
+  border-radius: 20px;
+  height: 36px;
+  left: 387px;
+  position: absolute;
+  top: 547px;
+  width: 446px;
+}
+
+.web-1920-1 .rectangle-4 {
+  background-color: var(--desert-storm);
+  border-radius: 20px;
+  height: 36px;
+  left: 387px;
+  position: absolute;
+  top: 490px;
+  width: 446px;
+}
+
+.web-1920-1 .rectangle-5 {
+  background-color: var(--steel-blue);
+  border-radius: 16px;
+  cursor: pointer;
+  height: 32px;
+  left: 739px;
+  position: absolute;
+  top: 604px;
+  width: 94px;
+}
+
+.web-1920-1 .sign-up {
+  color: var(--steel-blue);
+  font-family: var(--font-family-avenir-light);
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  left: 665px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  text-align: right;
+  top: 612px;
+  white-space: nowrap;
+}
+
+.web-1920-1 .login {
+  color: var(--white);
+  font-family: var(--font-family-avenir-light);
+  font-size: var(--font-size-s);
+  font-weight: 300;
+  left: 764px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: right;
+  top: 611px;
+  white-space: nowrap;
+}
